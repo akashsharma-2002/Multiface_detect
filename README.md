@@ -5,8 +5,7 @@ This model uses opencv and google.colab.patches for building up the model
 
 # How to run this model?
 
-download the dependency 
+download the dependency And run this in google collab 
 
 !pip install opencv-python
 
-And run this in google collab 
