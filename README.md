@@ -55,3 +55,7 @@ Now copy the code from the "Multiface_detection.ipynb"  And finally You shall se
 
 
 
+<img width="1239" alt="Screenshot 2023-07-27 at 3 53 14 AM" src="https://github.com/akashsharma-2002/Multiface_detect/assets/73756172/d7cfb817-4d07-4ca3-8943-95c0781c9bf3">
+
+
+
